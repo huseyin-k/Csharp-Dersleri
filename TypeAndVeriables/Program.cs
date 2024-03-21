@@ -15,6 +15,7 @@ namespace TypeAndVeriables
             Console.WriteLine("Hello worl!");
             Console.WriteLine("Hello worl!"); 
             Console.WriteLine("Hello worl!");
+            Console.WriteLine("Hüseyin kurt")
 
         }
     }
